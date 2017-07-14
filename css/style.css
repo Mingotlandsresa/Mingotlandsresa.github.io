@@ -1,0 +1,59 @@
+#rublik { 
+	text-align: center;
+	padding: 40px;
+	background-color: #ffccac;
+	font-family: 'Pacifico', cursive;
+}
+
+h3{ 
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+}
+
+#Välkommen { 
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+}
+
+p{ font-size: 18px;
+	font-family: 'Pacifico', cursive;
+
+}
+
+li a{
+	color: black;
+	background-color :#c1e1dc;
+}
+
+li > a:hover{
+	background-color:#ffccac !important ;
+	color: black;
+}
+
+#hej {
+	color: #ffccac;
+	font-family:great vibes;
+}
+
+#spy {
+	text-align: center;
+	font-family:great vibes;
+}
+
+#slide {
+	color: #68fffc
+}
+
+h5 {
+	font-family: 'Pacifico', cursive;
+}
+
+#fråga {
+	font-family: 'Pacifico', cursive;
+}
+body {
+	background: url('../bilder/back.jpeg');
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
